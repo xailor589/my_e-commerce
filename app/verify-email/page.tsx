@@ -33,7 +33,7 @@ export default function VerifyEmailPage() {
           href="/login"
           className="inline-block mt-6 text-blue-600 font-medium hover:underline"
         >
-          ← Back to Login
+          ← Back to login
         </Link>
 
       </div>
