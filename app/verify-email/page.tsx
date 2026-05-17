@@ -26,14 +26,14 @@ export default function VerifyEmailPage() {
         </button>
 
         <p className="text-xs text-gray-400 mt-4">
-          Didn’t receive email? Check spam folder or resend again.
+          Didn’t receive Email? Check spam folder or resend again.
         </p>
 
         <Link
           href="/login"
           className="inline-block mt-6 text-blue-600 font-medium hover:underline"
         >
-          ← Back to login
+          ← Back to Login
         </Link>
 
       </div>
